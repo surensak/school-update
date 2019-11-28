@@ -3,3 +3,5 @@
 3.hm
 4.princ
 5.kids
+6.champ
+7.techno
